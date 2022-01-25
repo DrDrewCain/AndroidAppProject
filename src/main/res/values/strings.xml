@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+
+    <string name="add_current_order">Add Pizza to Current Order</string>
+    <string name="customize_selected_pizza">Customize Selected Pizza</string>
+    <string name="view_current_order">View Current Order</string>
+    <string name="manage_store_order">Manage Store Order</string>
+    <string name="select_topping">Select Topping</string>
+    <string name="add">Add</string>
+    <string name="select">Select</string>
+    <string name="price">Price</string>
+    <string name="current_topping">Current Topping</string>
+    <string name="select_size">Select Size</string>
+
+    <string name="pizza_list_title">Pizza List (Select to view details)</string>
+    <string name="pizza_type">Pizza Type</string>
+    <string name="pizza_size">Pizza Size</string>
+    <string name="pizza_price">Pizza Price</string>
+    <string name="total_store_price">Total Price of all orders</string>
+
+    <string name="toppings_title">Toppings (Select and click remove button to remove)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="tax">Tax</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="total_price">Total Price</string>
+
+    <string name="place_order">Place Order</string>
+    <string name="remove_order">Remove Order</string>
+
+    <string name="delete_order">Delete Order</string>
+    <string name="export_order">Export Order</string>
+
+    <string name="message_pizza_added">Pizza is added</string>
+    <string name="message_pizza_select">Please select pizza</string>
+
+    <string name="message_1">You have already added Maximum 7 Toppings.</string>
+    <string name="message_2">Please select a Topping to Add</string>
+    <string name="message_3">Please select a Pizza to view details</string>
+    <string name="message_4">Please select a Topping to remove</string>
+    <string name="message_5">Please provide phone number to place order</string>
+    <string name="message_6">Order has been placed.</string>
+    <string name="message_7">Please add orders.</string>
+    <string name="message_8">Please select an Order to Delete</string>
+</resources>
